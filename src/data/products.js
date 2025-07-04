@@ -1,0 +1,76 @@
+export const products = [
+  {
+    id: 1,
+    name: "Wooden Spoon Set",
+    image: "https://picsum.photos/seed/spoon/300",
+    price: 60,
+    rating: 5,
+    reviews: 14,
+  },
+  {
+    id: 2,
+    name: "Cotton Dress",
+    image: "https://picsum.photos/seed/dress/300",
+    price: 35,
+    rating: 4,
+    reviews: 10,
+  },
+  {
+    id: 3,
+    name: "Wall Decor",
+    image: "https://picsum.photos/seed/decor/300",
+    price: 85,
+    rating: 5,
+    reviews: 22,
+  },
+  {
+    id: 4,
+    name: "Steel Tumbler",
+    image: "https://picsum.photos/seed/tumbler/300",
+    price: 40,
+    rating: 4,
+    reviews: 9,
+  },
+  {
+    id: 5,
+    name: "Kids Shoes",
+    image: "https://picsum.photos/seed/shoes/300",
+    price: 120,
+    rating: 4,
+    reviews: 15,
+  },
+  {
+    id: 6,
+    name: "Hairband Pack",
+    image: "https://picsum.photos/seed/hairband/300",
+    price: 55,
+    rating: 5,
+    reviews: 18,
+  },
+  {
+    id: 7,
+    name: "Bamboo Serving Tray",
+    image: "https://picsum.photos/seed/tray/300",
+    price: 70,
+    rating: 4,
+    reviews: 7,
+  },
+  {
+    id: 8,
+    name: "Embroidered Pillow Cover",
+    image: "https://picsum.photos/seed/pillow/300",
+    price: 90,
+    rating: 5,
+    reviews: 13,
+  },
+  {
+    id: 9,
+    name: "Organic Baby Blanket",
+    image: "https://picsum.photos/seed/blanket/300",
+    price: 150,
+    rating: 5,
+    reviews: 21,
+  }
+];
+
+export default products;
